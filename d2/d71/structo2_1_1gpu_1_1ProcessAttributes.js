@@ -1,0 +1,25 @@
+var structo2_1_1gpu_1_1ProcessAttributes =
+[
+    [ "allocateOutputOnTheFly", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a51986cea70591f90a24a71ce96e23760", null ],
+    [ "clusterOutputIds", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a529e58c071043d8f01d220a5e4971205", null ],
+    [ "config", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a2ab87be9f28bad04667ae4ac3a271bea", null ],
+    [ "dEdxCalibContainer", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#ac5b796fe385a0621bedb263f56af510d", null ],
+    [ "dEdxCalibContainerBufferNew", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a7c1e58f7676704c5f18e03fe551c98f4", null ],
+    [ "disableCalibUpdates", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a24465e6378ccb92078feac15ac2875b2", null ],
+    [ "displayFrontend", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#add15578f5c97f05597da13ac65ef6532", null ],
+    [ "fastTransform", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a1832a140f737cec40c0a09a389800ff4", null ],
+    [ "outputBufferSize", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a144d19679124e93cf126f3b13137efab", null ],
+    [ "parser", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a732f78a28413f3646c008065ce235992", null ],
+    [ "qa", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#abf3779de7ff1d75d1ba9c269b6e988be", null ],
+    [ "qaTaskMask", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a1746dc35f8be687fd453f6cfd782b271", null ],
+    [ "readyToQuit", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a28b4f66edc8f13d24268e1cdb786d052", null ],
+    [ "suppressOutput", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a166bd8aef34e008af5eb57af7f6c7909", null ],
+    [ "tfSettings", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a04960dac0860a070c34d643f2d653f8d", null ],
+    [ "tpcPadGainCalib", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a44fce941daf4f3a137556123e18c9ee6", null ],
+    [ "tpcPadGainCalibBufferNew", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a14b108b6ddd57305cf1c4935d2bd93ad", null ],
+    [ "tpcSectorMask", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#aa4fba2ab3a7ef9fac92b7333a1e01249", null ],
+    [ "tracker", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a6a25aa279f2767f9ef571dcb32bec91a", null ],
+    [ "trdGeometry", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a3097ff5c3a247f7f53240b96da8ec588", null ],
+    [ "updateGainMapCCDB", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#acdf8991510d9089e24d2c6e598768b26", null ],
+    [ "verbosity", "d2/d71/structo2_1_1gpu_1_1ProcessAttributes.html#a7198107747d2aba8eb215afdaf090a89", null ]
+];
